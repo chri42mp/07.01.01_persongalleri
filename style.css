@@ -1,0 +1,12 @@
+img {
+  width: 100%;
+}
+#holder {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1em;
+}
+article {
+  border: 2px solid orange;
+  padding: 1em;
+}
